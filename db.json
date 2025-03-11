@@ -29,38 +29,7 @@
 
         }
     ],
-    "sliders":[
-        {
-            "id":2,
-            "src":"https://iili.io/39M3k7t.webp",
-            "alt":"img"
-        },
-        {
-            "id":1,
-            "src":"https://iili.io/39M3vkX.webp",
-            "alt":"img"
-        },
-        {
-            "id":4,
-            "src":"https://iili.io/39M38pn.webp",
-            "alt":"img"
-        },
-        {
-            "id":3,
-            "src":"https://iili.io/39M3ghG.webp",
-            "alt":"img"
-        }
-    ],
-    "coverText":[
-        {
-            "id":1,
-            "title":"با فیلیمو بی وقفه فیلم ببین"
-        },
-        {
-            "id":2,
-            "title":"کنترل همیشه دست توست!"
-        }
-    ],
+   
     "threeTiks":[
         {
             "id":"1",
